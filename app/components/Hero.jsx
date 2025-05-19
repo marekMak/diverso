@@ -14,7 +14,7 @@ const Hero = () => {
       <div className="absolute top-0 left-0 h-full w-full bg-[linear-gradient(rgba(51,33,29,0.6),rgba(51,33,29,0.45))] z-30"></div>
       <div className="absolute top-[50%] translate-y-[-50%] left-6 w-[90%] lg:w-full lg:left-40 flex flex-col gap-8 z-50">
         <Image
-          src="/logo.svg"
+          src="/logoFlower.svg"
           width={500}
           height={500}
           alt="diverso café logo"

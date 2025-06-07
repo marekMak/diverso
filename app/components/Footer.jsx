@@ -62,7 +62,7 @@ const Footer = () => {
           <li>6.30 - 23.00</li>
 
           <li className="text-sm font-semibold">Nedeľa</li>
-          <li>8.00 - 21.00</li>
+          <li>10.00 - 21.00</li>
         </ul>
       </div>
 
